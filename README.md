@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "3.Обработка событий"
 
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/1re0bmdjo4sugrh5?svg=true)](https://ci.appveyor.com/project/Garbuzenko/events2)    [GitHub Pages]()
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/1re0bmdjo4sugrh5?svg=true)](https://ci.appveyor.com/project/Garbuzenko/events2)    [GitHub Pages](https://garbuzenko.github.io/events2/)
 
 Правила сдачи задания:
 
